@@ -1,5 +1,5 @@
-# Streamlining-Interactive-Pharma-Marketing-AWS-Business-Challenge
-Welcome to the repository for "Streamlining Interactive Pharma Marketing", our submission to the AWS Business Challenge. We are proud to announce that our strategic plan secured fourth place in this annual competition, earning us a cash prize of $500.
+# Streamlining Interactive Pharma Marketing for Amazon (AWS) using Generative AI
+Welcome to the repository for "Streamlining Interactive Pharma Marketing for Amazon (AWS) using Generative AI". We are proud to announce that our strategic plan secured fourth place in this annual competition, earning us a cash prize of $500.
 Our submission tackles the marketing challenges pharmaceutical companies face using generative AI solutions. Dive into the comprehensive presentation included here, detailing our winning strategy and solution approach. Explore how we leverage generative AI to streamline interactive pharmaceutical marketing. Additionally, find attached a supplementary document providing further context and basic information about our submission. Please note that while the presentation contains detailed insights, certain proprietary information has been withheld for competitive advantage.
 
 Presentation can be found here: https://www.linkedin.com/posts/amarnath-amarnath_jeta-sage-activity-7182423145151123456-21g6?utm_source=share&utm_medium=member_desktop
